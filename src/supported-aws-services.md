@@ -144,6 +144,7 @@ Service | Crate         | Example
 [Security Token Service](http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html) | [rusoto_sts](https://crates.io/crates/rusoto_sts) | [sts.rs](https://github.com/rusoto/rusoto/blob/master/integration_tests/tests/sts.rs)
 [Service Discovery](https://aws.amazon.com/application-discovery/) | [rusoto_servicediscovery](https://crates.io/crates/rusoto_servicediscovery) | [servicediscovery.rs](https://github.com/rusoto/rusoto/blob/master/integration_tests/tests/servicediscovery.rs)
 [Simple Workflow Service](https://aws.amazon.com/swf/) | [rusoto_swf](https://crates.io/crates/rusoto_swf) | [swf.rs](https://github.com/rusoto/rusoto/blob/master/integration_tests/tests/swf.rs)
+[Single Sign-On](https://aws.amazon.com/single-sign-on/) | [rusoto_sso](https://crates.io/crates/rusoto_sso) | 
 [Serverless Repo](https://aws.amazon.com/serverless/serverlessrepo/) | [rusoto_serverlessrepo](https://crates.io/crates/rusoto_serverlessrepo) | [serverlessrepo.rs](https://github.com/rusoto/rusoto/blob/master/integration_tests/tests/serverlessrepo.rs)
 [Server Migration Service](https://aws.amazon.com/server-migration-service/) | [rusoto_sms](https://crates.io/crates/rusoto_sms) | [sms.rs](https://github.com/rusoto/rusoto/blob/master/integration_tests/tests/sms.rs)
 [Snowball](https://aws.amazon.com/snowball/) | [rusoto_snowball](https://crates.io/crates/rusoto_snowball) | [snowball.rs](https://github.com/rusoto/rusoto/blob/master/integration_tests/tests/snowball.rs)
